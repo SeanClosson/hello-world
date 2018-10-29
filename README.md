@@ -1,2 +1,3 @@
 # hello-world
-First repo from the guide
+
+Experienced IT consultant dusting off my coding skills
