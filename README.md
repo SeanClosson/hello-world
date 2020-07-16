@@ -1,6 +1,7 @@
-# Experienced IT consultant dusting off my coding skills
-
-> blockquote This is a simple markdown attempt
+## Experienced IT consultant dusting off my coding skills
+>
+> This is my simple markdown attempt
+>
 
 If I learn this, I could:
 - use it in all of my Python projects' README.md files
